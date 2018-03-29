@@ -5,6 +5,11 @@
       "taskName": "task-",
       "appliesTo": ".editorconfig",
       "type": "launch"
+    },
+    {
+      "taskName": "task-package",
+      "appliesTo": "package.json",
+      "type": "launch"
     }
   ]
 }
