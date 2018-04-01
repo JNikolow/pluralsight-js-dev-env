@@ -1,3 +1,4 @@
+/*eslint import/no-unresolved: [2, { caseSensitive: false }]*/
 import express from 'express';
 import path from 'path';
 import open from 'open';

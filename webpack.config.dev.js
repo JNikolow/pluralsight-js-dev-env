@@ -1,3 +1,4 @@
+/*eslint import/no-unresolved: [2, { caseSensitive: false }]*/
 import path from 'path';
 import HtmlWebpackPlugin from 'html-webpack-plugin';
 
