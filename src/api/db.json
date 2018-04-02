@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 33030528,
+      "firstName": "Randall",
+      "lastName": "Lakin",
+      "email": "Kelsie76@gmail.com"
+    },
+    {
+      "id": 8444355,
+      "firstName": "Orland",
+      "lastName": "Buckridge",
+      "email": "Jeffrey0@gmail.com"
+    },
+    {
+      "id": 85363945,
+      "firstName": "Mathew",
+      "lastName": "Gislason",
+      "email": "Reynold.Rosenbaum46@yahoo.com"
+    },
+    {
+      "id": 98331832,
+      "firstName": "Neha",
+      "lastName": "Smith",
+      "email": "Monserrat.Muller23@gmail.com"
+    }
+  ]
+}
